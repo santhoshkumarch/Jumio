@@ -1,5 +1,7 @@
 {
   "name": "JumioPos",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
